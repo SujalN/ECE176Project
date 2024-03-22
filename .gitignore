@@ -1,6 +1,7 @@
-combined_dataset/
-car-dataset-200-backup-hyphen/
-car-dataset-200-backup-underscore/
+combined-dataset/
+car-dataset-backup-hyphen/
+car-dataset-backup-underscore/
+combined-dataset-backup/
 CarDataset/
 car-dataset-200/
 .DS_Store
